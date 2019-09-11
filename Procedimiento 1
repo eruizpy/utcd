@@ -1,0 +1,17 @@
+Como habiamos comentado la ultima vez, en esta oportinidad vamos a trabajar con la instalacion de linux.
+Pero las instrucciones no seran usando el Wizard de Ubuntu, seran mas tecnicas y para que sepan para que sirve cada configuracion y como proceder caso exista un error en el futuro.
+
+Vamos a necesitar en esta etapa de dos cosas, como la mayoria usa Windows.
+Vamos a buscar instalar Virtualbox enlace aqui 3https://download.virtualbox.org/virtualbox/6.0.12/VirtualBox-6.0.12-133076-Win.exe
+Caso uses Ubuntu Podes buscar en el Software Center.
+Caso uses Manjaro, abris tu terminal y usas estos comandos: sudo pacman -S virtualbox y sudo pacman -S virtualbox-guest-utils
+Caso uses Deepin, abris tu terminal y usas estos comandos: sudo apt-get install -y virtualbox
+
+Luego tendremos que tener listo la .ISO de Ubuntu Server para realizar las instalaciones manuales.
+https://ubuntu.com/download/server
+Ubuntu Server 18.04.3 LTS
+
+Bajen y verifiquen su integridad mediante mds.
+Los demas procedimientos vamos a realizarlos en Clase.
+
+Enjoy.
